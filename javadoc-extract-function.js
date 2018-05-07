@@ -39,4 +39,3 @@ function extractJavadocData(text) {
 		}
 		return javadocFileData;
 };
-extractJavadocData("");
